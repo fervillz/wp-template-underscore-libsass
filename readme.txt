@@ -1,6 +1,6 @@
-=== SoSimple Magazine ===
+=== Wordpress Starter Theme [underscore + libsass] ===
 
-Contributors: automattic, fervillz
+Contributors: fervillz
 Tags: translation-ready, custom-background, theme-options, custom-menu, post-formats, threaded-comments
 
 Requires at least: 4.0
@@ -9,11 +9,11 @@ Stable tag: 1.0.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-A starter theme called SoSimple Magazine, or underscores.
+A starter theme using libsass ang underscores
 
 == Description ==
 
-SoSimple Magazine is a Responsive Simple Magazine style WordPress Theme with Unlimited Color Choice for category and pages, Background, Layout, Footer, Sidebar and Design with 1000+ Google Webfonts Selection. Good for newspaper, magazine, publishing, business sites
+Create amazing themes
 
 == Installation ==
 	
@@ -23,9 +23,6 @@ SoSimple Magazine is a Responsive Simple Magazine style WordPress Theme with Unl
 
 == Frequently Asked Questions ==
 
-= Does this theme support any plugins? =
-
-SoSimple Magazine includes support for Infinite Scroll in Jetpack.
 
 == Changelog ==
 
